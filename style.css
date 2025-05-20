@@ -15,7 +15,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(./esset/gif.gif), url(./esset/bakground.jpg);
+    background-image: url(./esset/gif.gif);
+    background-color: #010080;
     background-repeat: repeat, no-repeat;
     background-size: auto, 100%;
     background-blend-mode: screen, color;
@@ -43,7 +44,7 @@ body {
     display: flex;
     align-items: center;
     padding-left: 7px;
-    background: linear-gradient(270deg, #0db6ff, #ff7bb9);
+    background-color: #010180;
 }
 
 .top-ul {flex-grow: 1; color: white;} 
@@ -54,7 +55,7 @@ body {
     text-align: center;
     float: right;
     margin-right: 5px;
-    background-color:#000;
+    background-color:#C0C0C0;
     border: 2px solid;
     border-top-color: white;
     border-left-color: white;
