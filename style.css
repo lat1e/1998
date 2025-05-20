@@ -24,7 +24,7 @@ body {
 
 /*컨테이너*/
 .container {
-    width: 900px;
+    width: 800px;
     background-color: #C0C0C0;
     border: 2px solid;
     border-top-color: white;
@@ -104,7 +104,7 @@ body {
 }
 
 .in-internet {
-    height: 550px;
+    height: 400px;
     overflow: scroll;
     border-top: 2px solid #000;
     border-left: 2px solid #000;
@@ -130,7 +130,7 @@ body {
 
 .box1 {
     margin-left: 5px;
-    width: 660px;
+    width: 560px;
 }
 
 .box2 {
