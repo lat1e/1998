@@ -65,7 +65,7 @@ body {
     padding: 2px;
     font-size: small;
     word-spacing: 10px;
-    border-bottom: 2px solid #7e487e;
+    border-bottom: 2px solid #000;
 }
 
 /*검색창*/
@@ -105,8 +105,8 @@ body {
 .in-internet {
     height: 550px;
     overflow: scroll;
-    border-top: 2px solid #7e487e;
-    border-left: 2px solid #7e487e;
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
 }
 
 /*내용*/
@@ -121,8 +121,8 @@ body {
 .box1, .box2, .box3 {
     height: 30px;
     border: 2px solid;
-    border-top-color: #7e487e;
-    border-left-color: #7e487e;
+    border-top-color: #000;
+    border-left-color: #000;
     border-right-color: white;
     border-bottom-color: white;
 }
