@@ -10,7 +10,7 @@
 body {
     overflow: hidden;
     font-family: 'pf-stardust-bold';
-    color: #441644;
+    color: #000;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -24,11 +24,11 @@ body {
 /*컨테이너*/
 .container {
     width: 900px;
-    background-color: #bbc3c4;
+    background-color: #C0C0C0;
     border: 2px solid;
     border-top-color: white;
     border-left-color: white;
-    box-shadow: 7px 7px 10px #441644;
+    box-shadow: 7px 7px 10px #000;
 }
 
 /*헤더*/
@@ -54,7 +54,7 @@ body {
     text-align: center;
     float: right;
     margin-right: 5px;
-    background-color:#dbc4e7;
+    background-color:#000;
     border: 2px solid;
     border-top-color: white;
     border-left-color: white;
@@ -92,7 +92,7 @@ body {
     border-bottom-color: white;
 }
 
-.searhspace::placeholder {color: #441644;}
+.searhspace::placeholder {color: #000;}
 
 /*인터넷*/
 .internet {
