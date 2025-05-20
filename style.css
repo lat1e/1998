@@ -111,6 +111,10 @@ body {
 }
 
 /*내용*/
+.main {
+    background-color: black;
+    color: white;
+}
 
 /*푸터*/
 .footer {
